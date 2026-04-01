@@ -22,7 +22,7 @@ The system focuses on handling sensitive healthcare data with proper encryption,
 # 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/pigw-healthcare-service.git
+git clone https://github.com/setu666h/pigw-healthcare-service.git
 cd pigw-healthcare-service
 ```
 
